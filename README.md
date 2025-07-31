@@ -32,40 +32,40 @@ This repository contains the **frontend** built with **React**, **CodeMirror** f
 
 ## ⚙️ Installation & Setup
 
-## 1. Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/rampalyadav0001/codeShare-Frontend.git
 ```
 ---
 
-## 2. Navigate into the project directory
+### 2. Navigate into the project directory
 ```bash
 cd codeShare-Frontend
 ```
 
 ---
 
-## 3. Install dependencies
+### 3. Install dependencies
 ```bash
 npm install
 ```
 ---
 
-## 4. Create a .env file in the root directory and add your backend URL:
+### 4. Create a .env file in the root directory and add your backend URL:
 
 ```bash
 VITE_APP_BACKEND_URL= <BackEnd Url Here>
 ```
 ---
 
-## 5. Start the development server
+### 5. Start the development server
 
 ```bash
 npm run dev
 ```
 ---
 
-## 6. Open in browser
+### 6. Open in browser
 
 ```bash
 http://localhost:5173/
